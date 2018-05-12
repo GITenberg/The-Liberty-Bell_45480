@@ -1,0 +1,36 @@
+_repo: The-Liberty-Bell_45480
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hows, John Augustus
+    alias: Hows, J. A. (John Augustus)
+    birthdate: 1832
+    deathdate: 1874
+    gutenberg_agent_id: '43311'
+    url: http://www.gutenberg.org/2009/agents/43311
+covers:
+- cover_type: archival
+  image_path: 45480-h/images/coverm.jpg
+creator:
+  author:
+    agent_name: Wallace, William Ross
+    alias: Wallace, Wm. (William)
+    birthdate: 1819
+    deathdate: 1881
+    gutenberg_agent_id: '43310'
+    url: http://www.gutenberg.org/2009/agents/43310
+description: ''
+gutenberg_issued: '2014-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45480'
+  lccn: '31022525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberty Bell'
+- !lcc 'PS'
+title: The Liberty Bell
+url: http://www.gutenberg.org/ebooks/45480
